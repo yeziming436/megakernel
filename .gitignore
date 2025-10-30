@@ -1,0 +1,11 @@
+local/
+__pycache__/
+*.egg-info/
+
+*.so
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
